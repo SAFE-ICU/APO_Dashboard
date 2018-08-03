@@ -1,2 +1,2 @@
 # APO_Dashboard
-Dashboard for policy learning for Adverse Pregnancy Outcomes
+Dashboard for learning policy decisions to minimize Adverse Pregnancy Outcomes in India. Created with wiseR.
